@@ -1,3 +1,4 @@
 
-<img src="(https://github.com/Beulah-coding/DataInsightHub/assets/73297822/3829dec6-21ce-4871-a4cd-f0e58268e496"> 
+![image](https://github.com/Beulah-coding/DataInsightHub/assets/73297822/3e164628-0709-4e66-bc90-e89c5a15024d)
+
 
